@@ -37,14 +37,46 @@ https://sirekap-obj-formc.kpu.go.id/4bf2/pemilu/ppwp/52/03/14/20/01/520314200100
 
 https://sirekap-obj-formc.kpu.go.id/4bf2/pemilu/ppwp/52/03/14/20/01/5203142001007-20240215-015310--8595cd34-c77b-47ce-b2da-02d91850f96a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/4bf2/pemilu/ppwp/52/03/14/20/01/5203142001007-20240215-171611--d75708ee-3a90-421e-8d3a-b51ec2a81bb0.jpg
+https://sirekap-obj-formc.kpu.go.id/4bf2/pemilu/ppwp/52/03/14/20/01/5203142001007-20240314-204026--1c01dac5-f410-496c-a0e8-d47beca24a93.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 19:00:26 |
+| Time Stamp | 2024-03-14 21:00:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **215**.
+ * L: **103**.
+ * P: **112**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **190**.
+ * L: **88**.
+ * P: **102**.
+
+Jumlah pengguna hak pilih dalam DPTb: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **30**.
+ * L: **11**.
+ * P: **19**.
+
+Jumlah pengguna hak pilih: **220**.
+ * L: **99**.
+ * P: **121**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **216**.
+
+JUMLAH SUARA TIDAK SAH: **4**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **220**.
 
 

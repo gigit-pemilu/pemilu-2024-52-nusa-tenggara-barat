@@ -35,12 +35,14 @@ pie showData
 
 https://sirekap-obj-formc.kpu.go.id/755d/pemilu/ppwp/52/01/13/20/09/5201132009001-20240215-003559--19576bc0-393c-4d91-b508-348681402b75.jpg
 
+https://sirekap-obj-formc.kpu.go.id/755d/pemilu/ppwp/52/01/13/20/09/5201132009001-20240314-143955--5c0402bc-b688-4800-89de-be747d2ca19c.jpg
+
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-24 22:31:28 |
+| Time Stamp | 2024-03-14 15:00:00 |
 
 
 

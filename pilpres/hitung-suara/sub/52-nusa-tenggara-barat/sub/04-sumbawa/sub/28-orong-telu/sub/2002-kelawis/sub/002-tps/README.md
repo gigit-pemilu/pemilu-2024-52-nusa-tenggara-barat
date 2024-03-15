@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara Nasional"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 111
-    bar [57, 111, 6]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 57
-    "2" : 111
-    "3" : 6
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 57    | [57][p-1]   | 32,76      |
-| 2   | PRABOWO GIBRAN | 111   | [111][p-2]  | 63,79      |
-| 3   | GANJAR MAHFUD  | 6     | [6][p-3]    | 3,45       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/04-sumbawa/sub/28-orong-telu/sub/2002-kelawis/sub/002-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/04-sumbawa/sub/28-orong-telu/sub/2002-kelawis/sub/002-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/04-sumbawa/sub/28-orong-telu/sub/2002-kelawis/sub/002-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/fc11/pemilu/ppwp/52/04/28/20/02/5204282002002-20240215-021151--46c1a9dc-6ee4-4540-a199-72aff197340b.jpg
+https://sirekap-obj-formc.kpu.go.id/fc11/pemilu/ppwp/52/04/28/20/02/5204282002002-20240315-093943--a8be3fba-f5bf-4679-95fc-39b3fcc0e792.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fc11/pemilu/ppwp/52/04/28/20/02/5204282002002-20240215-042648--fbcc4778-189b-4f4f-9751-6ab87c4c592f.jpg
+https://sirekap-obj-formc.kpu.go.id/fc11/pemilu/ppwp/52/04/28/20/02/5204282002002-20240315-093945--893f7dcc-6cb4-4506-acd8-7c8adddcd60b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fc11/pemilu/ppwp/52/04/28/20/02/5204282002002-20240215-042735--a236df94-80d4-4e7d-ab9c-8b929af73374.jpg
+https://sirekap-obj-formc.kpu.go.id/fc11/pemilu/ppwp/52/04/28/20/02/5204282002002-20240315-093944--2a3f98b0-534e-4398-9fd3-b910bd495576.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 21:01:18 |
+| Time Stamp | 2024-03-15 10:00:00 |
 
 
 ## DATA PEMILIH TETAP

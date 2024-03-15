@@ -1,82 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara Nasional"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 183
-    bar [13, 183, 3]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 13
-    "2" : 183
-    "3" : 3
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 13    | [13][p-1]   | 6,53       |
-| 2   | PRABOWO GIBRAN | 183   | [183][p-2]  | 91,96      |
-| 3   | GANJAR MAHFUD  | 3     | [3][p-3]    | 1,51       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/03-narmada/sub/2009-selat/sub/019-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/03-narmada/sub/2009-selat/sub/019-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/03-narmada/sub/2009-selat/sub/019-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/3018/pemilu/ppwp/52/01/03/20/09/5201032009019-20240222-200423--14cd2de8-787d-4b59-a8e6-bd9a3547079e.jpg
+https://sirekap-obj-formc.kpu.go.id/3018/pemilu/ppwp/52/01/03/20/09/5201032009019-20240314-001214--e0d5c39f-bd53-4400-b127-59dba1b04bb3.jpg
 
-https://sirekap-obj-formc.kpu.go.id/3018/pemilu/ppwp/52/01/03/20/09/5201032009019-20240222-200441--e301d098-adbf-4971-a92a-153cbb865239.jpg
+https://sirekap-obj-formc.kpu.go.id/3018/pemilu/ppwp/52/01/03/20/09/5201032009019-20240314-001216--0919385c-ef23-451a-984a-39e20facf72d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/3018/pemilu/ppwp/52/01/03/20/09/5201032009019-20240222-200504--35500a4f-1cdc-4591-bd68-9d16cdfde0dc.jpg
+https://sirekap-obj-formc.kpu.go.id/3018/pemilu/ppwp/52/01/03/20/09/5201032009019-20240314-001215--fa873e22-35ab-4db4-bc62-9bc9c20d1bb4.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-22 23:00:00 |
+| Time Stamp | 2024-03-14 00:30:00 |
 
 
 ## DATA PEMILIH TETAP
 
-Jumlah pemilih dalam DPT: **219**.
- * L: **113**.
- * P: **106**.
+Jumlah pemilih dalam DPT: **0**.
+ * L: **0**.
+ * P: **0**.
 
 ## DATA PENGGUNA HAK PILIH
 
-Jumlah pengguna hak pilih dalam DPT: **199**.
- * L: **98**.
- * P: **101**.
+Jumlah pengguna hak pilih dalam DPT: **0**.
+ * L: **0**.
+ * P: **0**.
 
 Jumlah pengguna hak pilih dalam DPTb: **0**.
  * L: **0**.
  * P: **0**.
 
-Jumlah pengguna hak pilih dalam DPK: **2**.
+Jumlah pengguna hak pilih dalam DPK: **0**.
  * L: **0**.
- * P: **2**.
+ * P: **0**.
 
-Jumlah pengguna hak pilih: **201**.
- * L: **98**.
- * P: **103**.
+Jumlah pengguna hak pilih: **0**.
+ * L: **0**.
+ * P: **0**.
 
 ## JUMLAH SUARA SAH DAN TIDAK SAH
 
-JUMLAH SELURUH SUARA SAH: **199**.
+JUMLAH SELURUH SUARA SAH: **0**.
 
-JUMLAH SUARA TIDAK SAH: **2**.
+JUMLAH SUARA TIDAK SAH: **0**.
 
-JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **201**.
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **0**.
 
 
