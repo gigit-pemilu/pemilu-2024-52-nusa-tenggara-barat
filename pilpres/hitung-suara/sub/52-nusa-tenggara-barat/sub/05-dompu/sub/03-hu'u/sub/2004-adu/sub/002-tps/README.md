@@ -2,18 +2,18 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/8aef/pemilu/ppwp/52/05/03/20/04/5205032004002-20240217-170003--aba2ed10-0748-4ba3-90c9-ccca090d6c43.jpg
+https://sirekap-obj-formc.kpu.go.id/8aef/pemilu/ppwp/52/05/03/20/04/5205032004002-20240317-010353--83323d7b-38a4-47e1-90d5-40882aa712a1.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8aef/pemilu/ppwp/52/05/03/20/04/5205032004002-20240217-170008--633b77ff-2c16-4026-b614-e5512cff3930.jpg
+https://sirekap-obj-formc.kpu.go.id/8aef/pemilu/ppwp/52/05/03/20/04/5205032004002-20240317-010354--902ab825-1515-472c-ac62-f5634fdd8419.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8aef/pemilu/ppwp/52/05/03/20/04/5205032004002-20240217-170003--07e48e68-1f1a-4ca1-9490-0f52a15fdb9b.jpg
+https://sirekap-obj-formc.kpu.go.id/8aef/pemilu/ppwp/52/05/03/20/04/5205032004002-20240317-010353--5be8e999-047f-4223-9598-d9ffb4c2ea89.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 17:30:00 |
+| Time Stamp | 2024-03-17 01:30:00 |
 
 
 ## DATA PEMILIH TETAP
@@ -42,9 +42,9 @@ Jumlah pengguna hak pilih: **191**.
 
 ## JUMLAH SUARA SAH DAN TIDAK SAH
 
-JUMLAH SELURUH SUARA SAH: **185**.
+JUMLAH SELURUH SUARA SAH: **189**.
 
-JUMLAH SUARA TIDAK SAH: **6**.
+JUMLAH SUARA TIDAK SAH: **2**.
 
 JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **191**.
 

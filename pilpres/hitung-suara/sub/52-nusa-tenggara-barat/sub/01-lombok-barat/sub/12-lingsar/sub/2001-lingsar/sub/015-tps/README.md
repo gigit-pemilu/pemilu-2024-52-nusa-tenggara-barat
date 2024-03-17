@@ -1,48 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 198
-    bar [48, 198, 19]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 48
-    "2" : 198
-    "3" : 19
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 48    | [48][p-1]   | 18,11      |
-| 2   | PRABOWO GIBRAN | 198   | [198][p-2]  | 74,72      |
-| 3   | GANJAR MAHFUD  | 19    | [19][p-3]   | 7,17       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2001-lingsar/sub/015-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2001-lingsar/sub/015-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2001-lingsar/sub/015-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/fe5e/pemilu/ppwp/52/01/12/20/01/5201122001015-20240214-203801--0597e462-711d-4590-a7fd-b3adfdec9d1f.jpg
+https://sirekap-obj-formc.kpu.go.id/fe5e/pemilu/ppwp/52/01/12/20/01/5201122001015-20240315-221735--6ca018ce-c0fd-4f43-93ac-8e665b5dade6.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fe5e/pemilu/ppwp/52/01/12/20/01/5201122001015-20240214-204546--aca97036-3ba0-41ad-bc61-48bcfc5f78dc.jpg
+https://sirekap-obj-formc.kpu.go.id/fe5e/pemilu/ppwp/52/01/12/20/01/5201122001015-20240315-221737--1e1f9f0d-9db8-4234-bd71-f49a6f329ed6.jpg
+
+https://sirekap-obj-formc.kpu.go.id/fe5e/pemilu/ppwp/52/01/12/20/01/5201122001015-20240315-221736--aceea10d-7149-4645-865e-fc8c88dbf43f.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 12:00:00 |
+| Time Stamp | 2024-03-15 22:30:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **295**.
+ * L: **146**.
+ * P: **149**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **295**.
+ * L: **146**.
+ * P: **149**.
+
+Jumlah pengguna hak pilih dalam DPTb: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih: **295**.
+ * L: **146**.
+ * P: **149**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **265**.
+
+JUMLAH SUARA TIDAK SAH: **6**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **271**.
 
 

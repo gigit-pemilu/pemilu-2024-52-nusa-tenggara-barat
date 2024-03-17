@@ -33,18 +33,18 @@ pie showData
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/e849/pemilu/ppwp/52/01/12/20/02/5201122002012-20240214-224948--0adf7b93-810b-469e-955f-d88a5ac906f1.jpg
+https://sirekap-obj-formc.kpu.go.id/e849/pemilu/ppwp/52/01/12/20/02/5201122002012-20240316-131559--79da040f-86d9-4f2f-b8d7-b719f6142e0c.jpg
 
 https://sirekap-obj-formc.kpu.go.id/e849/pemilu/ppwp/52/01/12/20/02/5201122002012-20240214-225601--4ec10eb7-c011-4faa-b0e2-c618c5b80e02.jpg
 
-https://sirekap-obj-formc.kpu.go.id/e849/pemilu/ppwp/52/01/12/20/02/5201122002012-20240214-225637--286bc5d1-486e-4752-b4a7-98940e22c324.jpg
+https://sirekap-obj-formc.kpu.go.id/e849/pemilu/ppwp/52/01/12/20/02/5201122002012-20240316-131600--7a28e819-f512-461b-a2dc-8dfc942c468c.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-21 19:00:00 |
+| Time Stamp | 2024-03-16 13:30:00 |
 
 
 ## DATA PEMILIH TETAP

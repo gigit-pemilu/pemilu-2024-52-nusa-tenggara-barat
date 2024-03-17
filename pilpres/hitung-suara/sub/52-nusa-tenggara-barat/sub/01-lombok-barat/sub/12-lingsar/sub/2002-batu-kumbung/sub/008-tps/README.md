@@ -33,18 +33,50 @@ pie showData
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/3056/pemilu/ppwp/52/01/12/20/02/5201122002008-20240215-001248--77219689-5218-44d2-a469-15a20c90e336.jpg
+https://sirekap-obj-formc.kpu.go.id/3056/pemilu/ppwp/52/01/12/20/02/5201122002008-20240316-125153--eb8e4ea5-12ae-4a5a-a6a9-87d6ef2a79ac.jpg
 
-https://sirekap-obj-formc.kpu.go.id/3056/pemilu/ppwp/52/01/12/20/02/5201122002008-20240215-005647--faa75b5d-e002-48a3-bc32-f5e54e4bc9c6.jpg
+https://sirekap-obj-formc.kpu.go.id/3056/pemilu/ppwp/52/01/12/20/02/5201122002008-20240316-125312--cba28cb2-55a2-41f4-85ab-16d70a01dfc6.jpg
 
-https://sirekap-obj-formc.kpu.go.id/3056/pemilu/ppwp/52/01/12/20/02/5201122002008-20240215-005833--6cbf12b6-2d28-4f5f-a70c-cd76951f548c.jpg
+https://sirekap-obj-formc.kpu.go.id/3056/pemilu/ppwp/52/01/12/20/02/5201122002008-20240316-125410--2bb388f2-8701-42e6-9668-7a4e397e2bf6.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-16 16:25:10 |
+| Time Stamp | 2024-03-16 13:00:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **263**.
+ * L: **128**.
+ * P: **135**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **199**.
+ * L: **88**.
+ * P: **111**.
+
+Jumlah pengguna hak pilih dalam DPTb: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **8**.
+ * L: **4**.
+ * P: **4**.
+
+Jumlah pengguna hak pilih: **207**.
+ * L: **92**.
+ * P: **115**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **200**.
+
+JUMLAH SUARA TIDAK SAH: **7**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **207**.
 
 
