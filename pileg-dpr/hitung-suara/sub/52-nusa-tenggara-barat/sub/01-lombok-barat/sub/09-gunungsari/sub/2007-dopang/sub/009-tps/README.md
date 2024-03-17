@@ -2,11 +2,11 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152653--b76ff8c2-eb9f-4a51-b1fc-9f09620c6253.jpg
+https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240316-101042--812000f3-56a6-416d-b2fd-11f818282ea5.jpg
 
 https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152654--aacc3fee-6682-477e-ac42-f68b2847b7c9.jpg
 
-https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152655--e3afb163-baaf-40ba-bea0-8c688c9bed45.jpg
+https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240316-101043--cb92b5bb-6ebc-4f04-b651-14ba8ac46b0f.jpg
 
 https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152655--cebd1e6d-457b-4288-9c98-c2d99aeddd96.jpg
 
@@ -22,13 +22,13 @@ https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/520109200700
 
 https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152658--ef8d9e27-1013-4958-82a5-22e36c6bab86.jpg
 
-https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152659--cb096a41-2d9b-4f4c-887a-6e4225f377fa.jpg
+https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240316-101046--11b1d765-65cc-4aa3-a25f-62b496bd87ef.jpg
 
-https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152659--52d247ae-c778-4772-996a-00e7b3c65227.jpg
+https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240316-101046--5863a11f-2dd2-49cb-8e64-a9caa0733194.jpg
 
 https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152700--cd09a716-fe60-43f0-9756-487de5a8f66b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152700--4ae10555-df04-49f0-b899-823e7ee5bc7c.jpg
+https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240316-101047--d6615e73-4a5f-4524-b677-4ce8d099ba77.jpg
 
 https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/5201092007009-20240315-152701--96ec2628-8786-4ada-8a2f-89160a979b92.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/be94/pemilu/pdpr/52/01/09/20/07/520109200700
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-15 15:33:47 |
+| Time Stamp | 2024-03-16 10:33:47 |
 | Kode Dapil | 5202                |
 
 
