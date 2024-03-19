@@ -1,50 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 150
-    bar [35, 150, 20]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 35
-    "2" : 150
-    "3" : 20
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 35    | [35][p-1]   | 17,07      |
-| 2   | PRABOWO GIBRAN | 150   | [150][p-2]  | 73,17      |
-| 3   | GANJAR MAHFUD  | 20    | [20][p-3]   | 9,76       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2005-karang-bayan/sub/015-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2005-karang-bayan/sub/015-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2005-karang-bayan/sub/015-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/fad7/pemilu/ppwp/52/01/12/20/05/5201122005015-20240214-141556--5dd62ce9-b022-4145-b2b6-c262d5c20ab9.jpg
+https://sirekap-obj-formc.kpu.go.id/fad7/pemilu/ppwp/52/01/12/20/05/5201122005015-20240318-130203--e35121e5-0261-4530-99d1-a9e8c9bfba5a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fad7/pemilu/ppwp/52/01/12/20/05/5201122005015-20240214-141708--aacf9c87-9b60-429a-9239-fb819fd29ef6.jpg
+https://sirekap-obj-formc.kpu.go.id/fad7/pemilu/ppwp/52/01/12/20/05/5201122005015-20240318-130431--d8af1589-071b-4d97-b6dd-9a1e2652b22c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fad7/pemilu/ppwp/52/01/12/20/05/5201122005015-20240214-203840--cc0d1aec-74ca-4293-93ec-fdbad9761688.jpg
+https://sirekap-obj-formc.kpu.go.id/fad7/pemilu/ppwp/52/01/12/20/05/5201122005015-20240318-130518--fb9f3c14-a130-4498-b33a-9fdab8ae54d8.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-14 21:46:01 |
+| Time Stamp | 2024-03-18 13:30:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **232**.
+ * L: **116**.
+ * P: **116**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **205**.
+ * L: **100**.
+ * P: **105**.
+
+Jumlah pengguna hak pilih dalam DPTb: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **3**.
+ * L: **2**.
+ * P: **1**.
+
+Jumlah pengguna hak pilih: **208**.
+ * L: **102**.
+ * P: **106**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **205**.
+
+JUMLAH SUARA TIDAK SAH: **3**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **208**.
 
 

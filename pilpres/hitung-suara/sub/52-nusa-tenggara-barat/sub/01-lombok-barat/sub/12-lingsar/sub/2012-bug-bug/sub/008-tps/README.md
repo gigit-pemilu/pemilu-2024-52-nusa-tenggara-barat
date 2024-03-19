@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 194
-    bar [35, 194, 7]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 35
-    "2" : 194
-    "3" : 7
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 35    | [35][p-1]   | 14,83      |
-| 2   | PRABOWO GIBRAN | 194   | [194][p-2]  | 82,20      |
-| 3   | GANJAR MAHFUD  | 7     | [7][p-3]    | 2,97       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2012-bug-bug/sub/008-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2012-bug-bug/sub/008-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/blob/main/pilpres/hitung-suara/sub/52-nusa-tenggara-barat/sub/01-lombok-barat/sub/12-lingsar/sub/2012-bug-bug/sub/008-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/39ca/pemilu/ppwp/52/01/12/20/12/5201122012008-20240214-220640--30e5e6ba-7ce2-407f-99e9-4aa0a418ab84.jpg
+https://sirekap-obj-formc.kpu.go.id/39ca/pemilu/ppwp/52/01/12/20/12/5201122012008-20240318-115425--d67b5332-5bb9-4759-ac7e-8b40d12e9698.jpg
 
-https://sirekap-obj-formc.kpu.go.id/39ca/pemilu/ppwp/52/01/12/20/12/5201122012008-20240214-220717--27b1a411-1081-46b8-9943-7b946cdd8abc.jpg
+https://sirekap-obj-formc.kpu.go.id/39ca/pemilu/ppwp/52/01/12/20/12/5201122012008-20240318-115132--44adde56-8f94-419c-8edf-557e63a42c84.jpg
 
-https://sirekap-obj-formc.kpu.go.id/39ca/pemilu/ppwp/52/01/12/20/12/5201122012008-20240214-220824--11b1cbf3-7e94-481d-b856-1d28916fa147.jpg
+https://sirekap-obj-formc.kpu.go.id/39ca/pemilu/ppwp/52/01/12/20/12/5201122012008-20240318-115516--b726b116-7ffe-4a38-891b-6778417980e9.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 18:00:00 |
+| Time Stamp | 2024-03-18 12:00:00 |
 
 
 ## DATA PEMILIH TETAP
