@@ -11,7 +11,7 @@ https://sirekap-obj-formc.kpu.go.id/104c/pemilu/pdpr/52/71/03/10/06/527103100600
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 13:33:48 |
 | Kode Dapil | 5202                |
 
 
